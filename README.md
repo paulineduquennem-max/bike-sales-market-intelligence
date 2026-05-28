@@ -1,5 +1,7 @@
 # 🚴 La Nouvelle Ère du Cycle — Business Case de Certification Data Analyst
 
+<img width="1999" height="1125" alt="Capture d&#39;écran 2026-05-28 114731" src="https://github.com/user-attachments/assets/87efe4ea-531c-49ec-bdc3-60a25bdeaaf6" />
+
 ## 📌 Contexte & Problématique
 Ce projet constitue mon **Business Case de certification** professionnelle de Data Analyst (réalisé à la Wild Code School). 
 
